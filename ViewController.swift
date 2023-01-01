@@ -1,5 +1,3 @@
-//
-//  ViewController.swift
 //  IAmRich
 //
 //  Created by Deepansh Kumar on 24/12/22.
